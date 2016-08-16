@@ -1,0 +1,34 @@
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.11.8  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_40757478[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/classes:/Users/umargurung/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/umargurung/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.8/xsbti/interface-0.13.8.jar:/Users/umargurung/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.8/compiler-interface-src/compiler-interface-src-0.13.8.jar:/Users/umargurung/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.8.jar:/Users/umargurung/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar:/Users/umargurung/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.4.jar:/Users/umargurung/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar:/Users/umargurung/.ivy2/cache/jline/jline/jars/jline-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/1r/6dbn03xj3gl3lh7f6z972w_r0000gn/T/sbt_4e11582/xsbt/ScaladocInterface.scala[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0minfo[0m] [0mStarting scala interpreter...[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-1-worker-13[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-1-worker-13[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

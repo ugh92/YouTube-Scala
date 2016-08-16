@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32msearchPlay:[0m[0m
+[0m[[0minfo[0m] [0m[32mFeature: The user can search on youtube and select the first video to watch[0m[0m
+[0m[[0minfo[0m] [0m[32m  As a youtube user [0m[0m
+[0m[[0minfo[0m] [0m[32m  I want to be able to search by phrase [0m[0m
+[0m[[0minfo[0m] [0m[32m  So that I can find videos related to provided phrase [0m[0m
+[0m[[0minfo[0m] [0m[32m  Once list of video is shown I want to choose the first video [0m[0m
+[0m[[0minfo[0m] [0m[32m  I want to watch the video and quit after the video finishes [0m[0m
+[0m[[0minfo[0m] [0m[32m  Scenario: YouTube search and play[0m[0m
+[0m[[0minfo[0m] [0m[32m    Given I am on the youtube homepage [0m[0m
+[0m[[0minfo[0m] [0m[32m    When I enter search phrase google co uk [0m[0m
+[0m[[0minfo[0m] [0m[32m    And I click search [0m[0m
+[0m[[0minfo[0m] [0m[32m    And I click on the first video [0m[0m
+[0m[[0minfo[0m] [0m[32m    And I want to check that the video clicked is the one that is playing [0m[0m
+[0m[[0minfo[0m] [0m[32m    And I turn off the auto play [0m[0m
+[0m[[0minfo[0m] [0m[32m    Then I want to quit after the video finishes [0m[0m
